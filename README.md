@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anamoun
-- 👀 I’m interested in ...
+- 👀 I’m interested in developing AI/ML solutions that augment interactive systems
 - 🌱 I’m currently learning data mining and machine learning 
 - 💞️ I’m looking to collaborate on various research projects especially those focusing on using machine learning models to unravel the complexity of data
 - 📫 For quick access, drop me a line at: abdallah.namoun@gmail.com
